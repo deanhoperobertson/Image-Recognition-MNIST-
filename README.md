@@ -5,7 +5,7 @@ This repo contains a collection of Jupyter notebook tutorials looking at trainin
 ## Model Types
 1. Basic Neural Network
 2. Convolutional Neural Network
-3. Convolutional Neural Network with Embeddings
+3. Convolutional Neural Network with Data Augmentation
 4. Recurrent Neural Network
 
 
